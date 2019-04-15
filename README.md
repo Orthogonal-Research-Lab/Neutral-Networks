@@ -9,4 +9,4 @@ A neutral network is a network of point mutations that represents all possible s
   Figure 1. 3-base hypercube.
 </p>
 
-In Figure 1, we can use the vertices of a cube to represent each possible genetic state. Therefore, we have multiple paths from "000" to "111". All of these paths (6) are of equivalent length. One feature of a neutral network is a demonstration of neutrality as equivalent to the [ergodicity](https://en.wikipedia.org/wiki/Ergodicity) of a network topology. Neutral processes ensure that there are no clearly shorter paths, and any selection on the system will produce asymmetries in the network.
+In Figure 1, we can use the vertices of a cube to represent each possible genetic state. Therefore, we have multiple paths from "000" to "111". All of these paths (6) are of equivalent length. One feature of a neutral network is a demonstration of neutrality as equivalent to the [ergodicity](https://en.wikipedia.org/wiki/Ergodicity) of a network topology. Neutral processes ensure that there are no clearly shorter paths, and selection on the system will tend towards producing asymmetries in the network.
